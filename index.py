@@ -2,7 +2,7 @@
 import openai
 
 from openai import OpenAI
-#jl
+#jl 
 # 1. Setup the client
 # Replace 'YOUR_API_KEY_HERE' with the key you copied in Step 1 I
 client = OpenAI(api_key="YOUR_API_KEY_HERE")
